@@ -1,5 +1,5 @@
-var nomeHeroi = "Danilo"
-var rankDeLiga ="10001"
+var nomeHeroi = "Nome-Do-Heroi"
+var rankDeLiga ="Rank-Do-Heroi"
 
 var nivel
 
